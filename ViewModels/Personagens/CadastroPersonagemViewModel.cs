@@ -241,7 +241,7 @@ namespace AppRpgEtec.ViewModels.Personagens
                 this.PontosVida = p.PontosVida;
                 this.Defesa = p.Defesa;
                 this.Derrotas = p.Derrotas;
-                this.Disputar = p.Disputas;
+                this.Disputas = p.Disputas;
                 this.Forca = p.Forca;
                 this.Inteligencia = p.Inteligencia;
                 this.Vitorias = p.Vitorias;
